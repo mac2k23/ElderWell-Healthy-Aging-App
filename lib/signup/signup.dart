@@ -1,4 +1,8 @@
+import 'package:elderwell/profile/1_get_started.dart';
+import 'package:elderwell/report/report.dart';
+import 'package:elderwell/signup/login.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 class SignUp extends StatefulWidget {
   const SignUp({super.key});
@@ -18,8 +22,8 @@ class _SignUpState extends State<SignUp> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
-                Padding(
-                  padding: const EdgeInsets.all(15.0),
+                const Padding(
+                  padding: EdgeInsets.all(15.0),
                   child: Center(
                     child: Text(
                       'Sign Up',
@@ -102,24 +106,28 @@ class _SignUpState extends State<SignUp> {
                         borderRadius: BorderRadius.circular(20),
                       )
                   ),
-                  onPressed: (){},
-                  child: Padding(
-                    padding: const EdgeInsets.only(top: 3.0,bottom: 3,right: 25,left: 25),
+                  onPressed: (){
+                    Get.to(const GetStarted());
+                  },
+                  child: const Padding(
+                    padding: EdgeInsets.only(top: 3.0,bottom: 3,right: 25,left: 25),
                     child: Text('Sign Up'),
                   ),
                 ),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Text(
+                    const Text(
                       'Already have an account ',
                       style: TextStyle(
                         color: Colors.black,
                       ),
                     ),
                     InkWell(
-                      onTap: (){},
-                      child: Text(
+                      onTap: (){
+                        Get.to(const Login());
+                      },
+                      child: const Text(
                         'Login',
                         style: TextStyle(
                           decoration: TextDecoration.underline,
