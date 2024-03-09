@@ -1,10 +1,16 @@
-# ElderWell
-https://dribbble.com/shots/20243423-Fitlab-Diet-Workout-Tracker-Application-For-Fitness?utm_source=Clipboard_Shot&utm_campaign=musemindmobile&utm_content=Fitlab%20%E2%80%93%20Diet%20%26%20Workout%20Tracker%20Application%20For%20Fitness&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=musemindmobile&utm_content=Fitlab%20%E2%80%93%20Diet%20%26%20Workout%20Tracker%20Application%20For%20Fitness&utm_medium=Social_Share
-# ElderWell Home
-https://dribbble.com/shots/20235106-Fitlab-Fitness-Workout-Tracker-App?utm_source=Clipboard_Shot&utm_campaign=musemindmobile&utm_content=Fitlab%20-%20Fitness%20%26%20Workout%20Tracker%20App&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=musemindmobile&utm_content=Fitlab%20-%20Fitness%20%26%20Workout%20Tracker%20App&utm_medium=Social_Share
-# ElderWell diet
-https://dribbble.com/shots/20225957-Fitlab-Diet-Food-Tracker-Application?utm_source=Clipboard_Shot&utm_campaign=musemindmobile&utm_content=Fitlab%20-%20Diet%20%26%20Food%20Tracker%20Application&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=musemindmobile&utm_content=Fitlab%20-%20Diet%20%26%20Food%20Tracker%20Application&utm_medium=Social_Share
-# ElderWell Profile
-https://dribbble.com/shots/20193091-Fitlab-Profile-Set-Process-Fitness-App-Case-Study?utm_source=Clipboard_Shot&utm_campaign=musemindmobile&utm_content=Fitlab%20-%20%20Profile%20Set%20Process%20%7C%20Fitness%20App%20Case%20Study&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=musemindmobile&utm_content=Fitlab%20-%20%20Profile%20Set%20Process%20%7C%20Fitness%20App%20Case%20Study&utm_medium=Social_Share
-# HomeScreen
-https://dribbble.com/shots/21887298-Nutrimate-A-healthy-habit-tracker-for-the-elderly?utm_source=Clipboard_Shot&utm_campaign=Yasasi&utm_content=Nutrimate%20-%20A%20healthy%20habit%20tracker%20for%20the%20elderly.&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Yasasi&utm_content=Nutrimate%20-%20A%20healthy%20habit%20tracker%20for%20the%20elderly.&utm_medium=Social_Share
+# elderwell
+
+ElderWell Healthy Aging App
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
